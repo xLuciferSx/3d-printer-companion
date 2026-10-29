@@ -2,7 +2,7 @@
 
 ## Getting help
 
-Open an issue at **https://github.com/xLuciferSx/3d-printer-companion/issues/new** and describe what happened, which printer you have, and the app version (Settings → About). We reply to every issue.
+Open an issue at **https://github.com/xLuciferSx/3d-printer-companion/issues/new** and describe what happened, which printer you have,. We reply to every issue.
 
 ## Common questions
 
