@@ -12,7 +12,7 @@ _Last updated 29 October 2026_
 
 ## Who the app talks to
 
-The app connects only to the printers you add: directly over your local network, or through a VPN you set up yourself. It doesn't contact any server run by us, and it contains no analytics, advertising or tracking.
+The app connects only to the printers you add: directly over the network. It doesn't contact any server run by us, and it contains no analytics, advertising or tracking.
 
 Sign in with Apple is handled by Apple; Apple shares only the name and email you choose with the app, and they stay on your device.
 
